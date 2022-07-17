@@ -1,3 +1,6 @@
+Basic add to cart web page is created using Reactjs, 
+below are the screen shots of the app :
+
 ![Screenshot (876)](https://user-images.githubusercontent.com/44298479/147365559-5569a33a-7202-434d-ab2e-2281dc347eab.png)
 ![Screenshot (877)](https://user-images.githubusercontent.com/44298479/147365566-c3d00fcb-bb5f-4ce7-a0b5-e125a49a21da.png)
 ![Screenshot (874)](https://user-images.githubusercontent.com/44298479/147365568-7fb086e8-70b5-46e9-9c56-c1c073bf0609.png)
